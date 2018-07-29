@@ -1,0 +1,9 @@
+.*
+dist/
+build/*
+app/
+!build/icons
+!.gitignore
+
+.idea
+*.iml
