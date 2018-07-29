@@ -2,6 +2,7 @@
 The verification process introduce and data struct
 
 Usechain的身份验证主要包括四个主要的过程：
+
 （1）首先， 用户需要到权威的第三方CA认证机构进行身份证书申请；
 
 （2）然后， 用户可以通过usechain节点客户端程序或者钱包产生一个一次性地址的密钥对，绑定身份证书进行身份验证；
